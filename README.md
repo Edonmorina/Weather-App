@@ -20,7 +20,7 @@ Download or clone this repo by using the link below:
 
 <pre>
  <code>
-  <a href="https://github.com/Edonmorina/BMI-Calculator.git" >https://github.com/Edonmorina/BMI-Calculator.git</a>
+  <a href="https://github.com/Edonmorina/Weather-App.git" >https://github.com/Edonmorina/Weather-App.git</a>
  </code>
 </pre>
 
