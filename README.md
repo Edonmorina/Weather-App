@@ -2,6 +2,10 @@
 
 BMI Calculator is a simple app that calculates a person BMI based on their specific input.
 
+### API's used:
+
+- https://distancematrix.ai/
+
 ### Languages and Frameworks used:
 
 - Dart
