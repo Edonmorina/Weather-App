@@ -4,7 +4,7 @@ BMI Calculator is a simple app that calculates a person BMI based on their speci
 
 ### API's used:
 
-- https://distancematrix.ai/
+- https://api.openweathermap.org/
 
 ### Languages and Frameworks used:
 
